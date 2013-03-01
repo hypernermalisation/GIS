@@ -1,6 +1,4 @@
-GIS
+GIS Projects
 ===
 
-Spatial Projects
-
-TEST
+Here are various GIS related scripts. Some are specific to WeoGeo while others are more general purpose. See documentation string within each script for details.
