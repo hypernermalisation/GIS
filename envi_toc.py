@@ -1,6 +1,7 @@
 '''
 This script produces a WeoGeoTableOfContents.json file using the .hdr file associated with
-ENVI .bsq files using SAFE's FME 2013. The contents of this script are used in the 'PythonCaller Parameters' within FME. The workspace file, ENVI_workspace.fmw is end result used to create the TOC json files.
+ENVI .bsq files using SAFE's FME 2013. The contents of this script are used in the 'PythonCaller Parameters' 
+within FME. The workspace file, ENVI_workspace.fmw is end result used to create the TOC json files.
 '''
 
 import fmeobjects
