@@ -1,7 +1,6 @@
 '''
 This script produces a WeoGeoTableOfContents.json file using the .hdr file associated with
-ENVI .bsq files. It extracts northing and easting information, bands and lines to calculate North, South, East
-and West coordinates
+ENVI .bsq files.
 '''
 
 import fnmatch
